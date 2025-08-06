@@ -1,0 +1,23 @@
+@theme {
+  /* === Font sizes === */
+  --font-size-h1: 36px;
+  --font-size-h2: 24px;
+  --font-size-h3: 15px;
+  --font-size-body: 13px;
+
+  /* === Line heights === */
+  --line-height-h1: 33px;
+  --line-height-h2: 22px;
+  --line-height-h3: 24px;
+  --line-height-body: 18px;
+
+  /* === Letter spacing === */
+  --letter-spacing-h1: -1px;
+  --letter-spacing-h2: -0.75px;
+  --letter-spacing-h3: -0.25px;
+  --letter-spacing-body: -0.1px;
+
+  /* === Font weights === */
+  --font-weight-bold: 700;
+  --font-weight-medium: 500;
+}

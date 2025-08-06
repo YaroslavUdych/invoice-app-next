@@ -1,0 +1,43 @@
+@layer components {
+  .headingL {
+    font-size: var(--font-size-h1);
+    line-height: var(--line-height-h1);
+    letter-spacing: var(--letter-spacing-h1);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .headingM {
+    font-size: var(--font-size-h2);
+    line-height: var(--line-height-h2);
+    letter-spacing: var(--letter-spacing-h2);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .headingS {
+    font-size: var(--font-size-h3);
+    line-height: var(--line-height-h3);
+    letter-spacing: var(--letter-spacing-h3);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .headingSVariant {
+    font-size: var(--font-size-h3);
+    line-height: var(--font-size-h3); /* 15px */
+    letter-spacing: var(--letter-spacing-h3);
+    font-weight: var(--font-weight-bold);
+  }
+
+  .bodyText {
+    font-size: var(--font-size-body);
+    line-height: var(--line-height-body);
+    letter-spacing: var(--letter-spacing-body);
+    font-weight: var(--font-weight-medium);
+  }
+
+  .bodyTextVariant {
+    font-size: var(--font-size-body);
+    line-height: var(--line-height-body-variant);
+    letter-spacing: var(--letter-spacing-body-variant);
+    font-weight: var(--font-weight-medium);
+  }
+}

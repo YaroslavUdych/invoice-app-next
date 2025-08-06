@@ -1,0 +1,18 @@
+@theme {
+  --color-primary: #7c5dfa;
+  --color-primary-hover: #9277ff;
+
+  --color-bg: #f8f8fb;
+  --color-bg-muted: #dfe3fa;
+
+  --color-surface: #ffffff;
+  --color-surface-dark: #1e2139;
+  --color-surface-darker: #252945;
+
+  --color-text: #1e2139;
+  --color-text-muted: #888eb0;
+  --color-accent: #7e88c3;
+
+  --color-error: #ec5757;
+  --color-error-soft: #ff9797;
+}
