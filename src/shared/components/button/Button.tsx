@@ -1,7 +1,8 @@
 'use client';
 
 import type { ButtonHTMLAttributes, ReactNode } from 'react';
-import clsx from 'clsx';
+import { clsx } from 'clsx';
+
 import { ButtonVariant, ButtonVariants } from './Button.types';
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
