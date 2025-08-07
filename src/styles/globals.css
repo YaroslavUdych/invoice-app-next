@@ -6,3 +6,7 @@
 @import './components/text.css';
 
 @custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  font-family: var(--font-league-spartan), sans-serif;
+}

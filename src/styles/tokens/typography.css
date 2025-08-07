@@ -19,5 +19,7 @@
 
   /* === Font weights === */
   --font-weight-bold: 700;
+  --font-weight-semi-bold: 600;
   --font-weight-medium: 500;
+  --font-weight-regular: 400;
 }

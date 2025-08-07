@@ -3,7 +3,6 @@
   --color-primary-hover: #9277ff;
 
   --color-bg: #f8f8fb;
-  --color-bg-muted: #dfe3fa;
 
   --color-surface: #ffffff;
   --color-surface-dark: #1e2139;
@@ -13,6 +12,15 @@
   --color-text-muted: #888eb0;
   --color-accent: #7e88c3;
 
-  --color-error: #ec5757;
-  --color-error-soft: #ff9797;
+  --color-warning: #ec5757;
+  --color-warning-soft: #ff9797;
+
+  --color-dark-button: #373b53;
+  --color-dark-button-hover: #0c0e16;
+  --color-dark-button-text-dark-theme: #dfe3fa;
+
+  --color-secondary-button: #f9fafe;
+  --color-secondary-button-hover: #dfe3fa;
+  --color-secondary-button-text: #7e88c3;
+  --color-secondary-button-dark-theme: #252945;
 }
