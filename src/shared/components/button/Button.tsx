@@ -38,8 +38,8 @@ export const Button = ({
 
     dark:bg-secondary-button-dark-theme
     dark:text-dark-button-text-dark-theme
-    dark:hover:bg-color-surface
-    dark:active:bg-color-surface
+    dark:hover:bg-secondary-button-dark-theme-hover
+    dark:active:bg-secondary-button-dark-theme-hover
   `,
     dark: `
     bg-dark-button
